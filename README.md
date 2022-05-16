@@ -1,2 +1,2 @@
-# clase_sass
-sass y ceo
+# clase_sassyceo
+sass y ceo para entrega del proyecto
