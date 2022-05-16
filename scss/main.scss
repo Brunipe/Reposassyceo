@@ -8,3 +8,15 @@ $numero: 720px;
 div{
     width: $numero/2;
 }
+
+//condicional
+$animal: perro;
+
+div {
+
+    @if $animal == pato {
+        color: blue;
+    } @else if $animal != pato {
+        color: black;
+    }
+}
