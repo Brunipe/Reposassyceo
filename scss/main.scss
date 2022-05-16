@@ -20,3 +20,12 @@ div {
         color: black;
     }
 }
+
+
+//bucles
+@for $i from 1 through 6 {
+    //interpolaciones
+    h#{$i} {
+        font-size: 24em / $i1
+    }
+}
