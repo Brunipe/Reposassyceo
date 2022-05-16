@@ -1,4 +1,5 @@
-div {
+.font-color {
   color: red; }
-  div div {
-    color: blue; }
+
+div {
+  width: 360px; }

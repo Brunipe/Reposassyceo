@@ -1,6 +1,10 @@
+@import "_color.scss";
+
+
+$numero: 720px;
+
+
+//operaciones
 div{
-    color: red;
-    div{
-        color: blue;
-    }
+    width: $numero/2;
 }
